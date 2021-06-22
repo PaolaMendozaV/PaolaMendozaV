@@ -1,5 +1,5 @@
 # **Hello World :v: I'm Paola Mendoza :dizzy:**
-- *Curious and happy woman*
+ *Curious and happy woman*
 
 
 
