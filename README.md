@@ -3,7 +3,7 @@
 
 
 
-**Quick Facts :boom:**
+**Quick Facts :boom:** :
 - 😄 Pronouns: She/her 
 - 🔭 I’m currently working on React and Bootstrap Proyect
 - 🌱 I’m currently learning JavaScript/React
