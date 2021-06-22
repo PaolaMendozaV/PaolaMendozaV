@@ -1,16 +1,23 @@
-### Hi there 👋
+**Hello World :v: I'm Paola Mendoza :dizzy:**
+*Curious and happy woman*
 
-<!--
-**PaolaMendozaV/PaolaMendozaV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Quick Facts :boom:**
+😄 Pronouns: She/her 
+🔭 I’m currently working on React and Bootstrap Proyect
+🌱 I’m currently learning JavaScript/React
+💬 Ask me about HTML5, CSS3 y JS.
+📫 How to reach me: https://www.linkedin.com/in/paolamendozavidal/
+:crystal_ball:Fun Facts: sometimes i'm actress :see_no_evil:
+
+**My basics are:**
+
+
+
+**My Tools are:**
+
+
+
+**In Progress:**
+
