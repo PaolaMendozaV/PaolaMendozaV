@@ -1,5 +1,5 @@
 # **Hello World :v: I'm Paola Mendoza :dizzy:**
- *Audiovisual| Front - end Developer student from Chile*
+ *Audiovisual | Front - end Developer student from Chile*
 
 
 
