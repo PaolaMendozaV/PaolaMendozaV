@@ -12,13 +12,16 @@
 - :crystal_ball: Fun Facts: sometimes i'm actress :see_no_evil:
 
 **My basics are:**
+
 ![](https://i.imgur.com/8to1832.png)
 
 
 **My Tools are:**
+
 ![](https://i.imgur.com/5rM6nAx.png)
 
 
 **In Progress:**
+
 ![](https://i.imgur.com/bmcv58h.png)
 
