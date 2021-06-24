@@ -1,4 +1,4 @@
-# **Hello World :v: I'm Paola Mendoza **
+# **Hello:v: I'm Paola **
  *Audiovisual | Front - end Developer student from Chile :dizzy:*
 
 
